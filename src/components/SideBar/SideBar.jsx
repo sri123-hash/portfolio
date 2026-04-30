@@ -55,7 +55,7 @@ const SideBar = () => {
       </div>
 
       <a
-        href="public/Sivasri_Developer_Resume.pdf"
+        href="/Sivasri_Developer_Resume.pdf"
         className="mt-8 inline-block bg-green-500 hover:bg-green-600 text-white px-6 py-3 rounded-full font-semibold"
       >
         ↓ Download Resume
