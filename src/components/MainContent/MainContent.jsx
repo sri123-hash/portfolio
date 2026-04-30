@@ -1,6 +1,6 @@
 import About from "../About/About";
 import Experience from "../Experience/Experience";
-import Project from "../Project/project";
+import Project from "../Project/Project";
 const MainContent = () => {
   return (
     <div className="space-y-8">
